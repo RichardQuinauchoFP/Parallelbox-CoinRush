@@ -1,0 +1,29 @@
+					 COMANDOS DE GIT BASH
+
+
+
+------------------------------------------------BÁSICO--------------------------------------------------
+cd .. (Va atrás en la ruta)
+cd + Tab (Autocompleta la ruta)
+
+git clone (clonar)
+git status (Status del repositorio) (Hacer entre cada comando por buena práctica)
+git add . (sube todos los archivos) (Si se pone un nombre en vez de "." de archivo se sube ese archivo)
+git commit -m "<mensaje del commit>" (sube los archivos del git)
+git push (publica los archivos)
+git pull (pullea la última versión de el repositorio) (Hacer en main si se quieren acceder a otras ramas)
+
+
+------------------------------------------------BRANCHES------------------------------------------------
+git branch
+git checkout <NombreDelaRama> (te sitúa en la rama seleccionada)
+git checkout -b (crear rama y situarse ahí)
+git push --set-upstream origin <NombreDeLaRama> (para poder hacer el push en la rama)
+
+
+------------------------------------------------MERGEAR-------------------------------------------------
+
+git checkout <La rama principal>
+git pull origin <La rama principal>
+git merge <La rama que queremos mergear>
+git push origin <la rama principal>
