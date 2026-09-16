@@ -13,6 +13,8 @@ git commit -m "<mensaje del commit>" (sube los archivos del git)
 git push (publica los archivos)
 git pull (pullea la última versión de el repositorio) (Hacer en main si se quieren acceder a otras ramas)
 
+git push --origin --delete <Nombre de la rama (Elimina una rama)
+
 
 ------------------------------------------------BRANCHES------------------------------------------------
 git branch
