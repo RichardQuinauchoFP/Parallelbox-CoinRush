@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CampusFP\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\campusfp\\my project\\assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\CampusFP\\My project\\assets\\scripts\\crossfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crossfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\CampusFP\\My project\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\CampusFP\\My project\\assets\\scripts\\volumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\CampusFP\\My project\\assets\\scripts\\brillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\CampusFP\\My project\\assets\\scripts\\pantallacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pantallacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrossFade.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\CrossFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CrossFade.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\CrossFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CrossFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransition.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PantallaCompleta.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\PantallaCompleta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PantallaCompleta.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\PantallaCompleta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PantallaCompleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brillo.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Brillo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brillo.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Brillo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brillo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Volumen.cs",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Volumen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volumen.cs",
+              "ToolTip": "C:\\Users\\CampusFP\\My project\\Assets\\Scripts\\Volumen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volumen.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:18:16.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
